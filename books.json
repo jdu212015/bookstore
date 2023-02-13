@@ -1,0 +1,45 @@
+[
+    {
+      "id": "1",
+      "title": "Before I fall",
+      "author": "Oliver Lauren",
+      "price": 9.99,
+      "cover": "./images/product_1.jpg"
+    },
+    {
+      "id": "2",
+      "title": "Delirium",
+      "author": "Oliver Lauren",
+      "price": 7.99,
+      "cover": "https://img1.od-cdn.com/ImageType-400/1191-1/B04/7C3/7C/%7BB047C37C-C4AD-4F13-A9E7-1FA43820E21B%7DImg400.jpg"
+    },
+    {
+      "id": "3",
+      "title": "The Lord of The Rings",
+      "author": "J.R.R.Tolkien",
+      "price": 9.99,
+      "cover": "./images/product_3.jpg"
+    },
+    {
+      "id": "4",
+      "title": "Harry Potter and the Sorcerer's stone",
+      "author": "J.K.Rowling",
+      "price": 5.99,
+      "cover": "./images/product_4.jpg"
+    },
+    {
+        "id": "5",
+        "title": "Pride and Prejudice",
+        "author": "Jane Austen",
+        "price": 7.99,
+        "cover": "https://images.squarespace-cdn.com/content/v1/58c180edff7c50dd0e51a2ad/1596041993633-UW2GTN4JZP8XLPZKKXCJ/9781847493699.jpg"
+    },
+    {
+        "id": "6",
+        "title": "1984",
+        "author": "George Orwell",
+        "price": 10.99,
+        "cover": "https://m.media-amazon.com/images/I/91SZSW8qSsL.jpg"
+    }
+  ]
+    

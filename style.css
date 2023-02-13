@@ -1,0 +1,119 @@
+  body {
+    font-family: Arial, sans-serif;
+    margin: 0px;
+  }
+  
+  header {
+    text-align: center;
+    padding: 20px;
+    background: linear-gradient(to right, #0b3d91, #6f00ff);
+    color: white;
+  }
+  section {
+    padding: 20px;
+    
+  }
+  
+  #book-list {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  
+  .book {
+    width: 30%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 10px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+  }
+  
+  .book img {
+    width: 100%;
+    height: 150px;
+    object-fit: contain;
+  }
+  
+  .book button {
+    background-color: orange;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    font-size: 10px;
+  }
+  
+  table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  th, td {
+    border: 1px solid black;
+    padding: 10px;
+    text-align: left;
+  }
+  
+  th {
+    background-color: rgb(198, 220, 49);
+  }
+  
+ main {
+    display: flex;
+    flex-wrap: wrap;
+    background: linear-gradient(to right, #4d3ade, #6f00ff);
+    color: white;
+    font-size: 11px;
+ }
+ h2 {
+    text-align: center;
+ }
+ #cart-table td, #cart-table th {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+  }
+  
+  #cart-table th {
+    background-color: #0b3d91;
+    color: white;
+  }
+  
+  #cart-table tr:nth-child(even) {
+    background-color: #ad09ff;
+  }
+  
+  #cart-table tr:hover {
+    background-color: #ddd;
+  }
+  
+  #total {
+    text-align: center;
+    clear: both;
+    margin: 10px;
+  }
+
+section .book {
+    background: linear-gradient(to right, #910b57, #8629ff);
+    color: white;
+}
+
+#book {
+  width: 60%;
+  text-align: center;
+  padding: 20px;
+  float: left;
+}
+
+#cart {
+  width: 30%;
+  text-align: center;
+  padding: 20px;
+  float: right;
+}
+
+p {
+    margin: 0px;
+}
